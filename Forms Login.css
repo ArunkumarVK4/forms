@@ -1,0 +1,63 @@
+.social-media{
+    width: 50px ;
+    height: 50px;
+    padding-right: 32px;
+    padding-left: 32px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    
+    
+}
+form{
+    text-align: center;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    border: 1px solid #ccc;
+    
+}
+#body{
+    background-color: #f2f6ff;
+    margin: 0%;
+}
+#register{
+    font-size: 32px;
+    padding-bottom: 32px;
+    padding-top: 16px;
+}
+#icons{
+    background-color: #f2f6ff;
+    padding-bottom: 24px;
+    margin-bottom: 32px;
+    padding-top: 24px;
+}
+.input-box{
+    font-size: 16px;
+    border: none;
+    padding-bottom: 24px;
+    padding-top: 32px;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    outline: none;
+}
+#input-box{
+    padding-top: 80px;
+    padding-bottom: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+
+}
+#submit{
+    background-color: #0e4bc7;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border: none;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+    margin: 30px;
+}
+#submit:active{
+    background-color: blue;
+}
